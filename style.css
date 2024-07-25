@@ -45,7 +45,7 @@ body{
     color: hsl(0, 0%, 7%);
     width: fit-content;
 }
-.container h4{
+.container h2{
     width: fit-content;
     font-weight: bold;
 }
